@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [TypeVDAO 技术公会Wiki](README.md)
