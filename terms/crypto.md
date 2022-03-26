@@ -1,5 +1,5 @@
 # Crypto
 
-cryptocuncurrency的缩写
+指cryptocuncurrency
 
 加密货币
